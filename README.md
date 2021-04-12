@@ -1,2 +1,4 @@
 # first_python
-First project Python
+Project for studies of the python language.
+
+#python
